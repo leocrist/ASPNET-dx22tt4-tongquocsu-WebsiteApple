@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E34AD3E6-D22D-4792-975C-31D062E773A9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ictshop/Web.config">
+    <Files>
+      <File FileName="Ictshop/Web.Config" Line="20" Column="75" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Ictshop" expanded="True">
+            <Node name="Ictshop" expanded="True">
+              <Node name="Web.Config" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Ictshop PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
